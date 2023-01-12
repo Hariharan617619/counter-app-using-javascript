@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    font-size: 100px;
+    user-select: none;
+    box-shadow: #6a82fb;
+    font-weight: bold;
+    
+}
+body {
+    background-image: linear-gradient(#112c98,#c30b80);
+}
+#inc-btn {
+    background-color:rgb(208, 22, 22);
+    font-size: 50px;
+    border-radius: 10px;   
+    
+}
+#save-btn {
+    background-color: rgb(52, 159, 52);
+    font-size: 45px;
+    border-radius: 10px;
+}
+button {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    user-select: none;
+    cursor: pointer;
+    box-shadow: black;
+}
+p {
+    font-size: 50px;
+    user-select: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
